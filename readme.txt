@@ -5,3 +5,5 @@ Git is free software distributed under the GPL.
 添加搜索功能。。。。
 
 添加商城、购物车
+
+修改内容提交到暂存区
