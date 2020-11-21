@@ -9,3 +9,5 @@ Git is free software distributed under the GPL.
 修改内容提交到暂存区
 
 修改内容未提交到暂存区
+
+My stupid boss still prefers SVN.
