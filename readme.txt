@@ -19,3 +19,7 @@ My stupid boss still prefers SVN.
 
 远程仓库添加内容
 
+Creating a new branch is quick.
+
+Creating a new branch is quick2.
+
